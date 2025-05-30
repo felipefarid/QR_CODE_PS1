@@ -28,9 +28,3 @@
 
     The QR Code will be saved as a .png file in the selected location.
 
-💡 Example
-
-Input: https://www.gov.br/saude/pt-br/composicao/saes/sangue
-Save as: C:\MyQRs\QR Code Campanha contra a dengue
-
-Result: QR Code successfully saved!
