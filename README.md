@@ -31,6 +31,6 @@
 💡 Example
 
 Input: https://www.gov.br/saude/pt-br/composicao/saes/sangue
-Save as: C:\MyQRs\openai.png
+Save as: C:\MyQRs\QR Code Campanha contra a dengue
 
 Result: QR Code successfully saved!
