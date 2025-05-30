@@ -30,7 +30,7 @@
 
 💡 Example
 
-Input: https://openai.com
+Input: https://www.gov.br/saude/pt-br/composicao/saes/sangue
 Save as: C:\MyQRs\openai.png
 
 Result: QR Code successfully saved!
